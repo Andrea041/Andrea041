@@ -1,9 +1,7 @@
 <h1 align="center">Hi 🤙🏼, I'm Andrea 🙍🏼‍♂️</h1>
-<h3 align="center">MSc Student in Computer Engineering</h3>
+<h3 align="center">Computer Engineer with a Master's Degree</h3>
 
-- 🔭 I’m currently studying at **University of Rome Tor Vergata**
-
-- 📚 I’m currently learning **some application of Machine Learning**
+- 🔭 I’m currently enrolled at **Deloitte** as a GenAI Engineer
 
 - 📫 How to reach me **aandreo.2001@gmail.com**
 
