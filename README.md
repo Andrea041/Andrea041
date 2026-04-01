@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🤙🏼, I'm Andrea 🙍🏼‍♂️</h1>
-<h3 align="center">Computer Engineer with a Master's Degree</h3>
+<h3 align="center">Computer Engineer | MSc</h3>
 
 - 🔭 I’m currently enrolled at **Deloitte** as a GenAI Engineer
 
