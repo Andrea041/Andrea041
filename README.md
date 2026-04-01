@@ -1,8 +1,8 @@
 <h1 align="center">Hi 🤙🏼, I'm Andrea</h1>
-<h3 align="center">Computer Engineer | MSc | GenAI Engineer</h3>
+<h3 align="center">Computer Engineer | MSc</h3>
 
 <p align="center">
-Building AI systems with LLMs, agents, and scalable architectures 🚀
+Building AI systems with LLMs, agents, and scalable architectures
 </p>
 
 <p align="center">
